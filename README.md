@@ -20,3 +20,4 @@ Solutions for problems found at [Program Creek](https://www.programcreek.com)
 See [Coding interview PDF](https://www.programcreek.com/wp-content/uploads/2012/11/coding-interview-3.pdf)
 
 * Rotate Array in Java - [RotateArray.java](src/test/java/org/alexburchak/programcreek/interview/rotate_array/RotateArray.java)
+* Evaluate Reverse Polish Notation - [ReversePolishNotation.java](src/test/java/org/alexburchak/programcreek/interview/reverse_polish_notation/ReversePolishNotation.java)
