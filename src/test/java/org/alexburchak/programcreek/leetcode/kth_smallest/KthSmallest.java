@@ -1,4 +1,4 @@
-package org.alexburchak.programcreek.kth_smallest;
+package org.alexburchak.programcreek.leetcode.kth_smallest;
 
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;

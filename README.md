@@ -13,4 +13,10 @@ Solutions for problems found at [GeeksforGeeks](https://geeksforgeeks.org)
 # Program Creek
 Solutions for problems found at [Program Creek](https://www.programcreek.com)
 
-* [LeetCode – Kth Smallest Element in a Sorted Matrix](https://www.programcreek.com/2016/08/leetcode-kth-smallest-element-in-a-sorted-matrix-java/) - [KthSmallest.java](src/test/java/org/alexburchak/programcreek/kth_smallest/KthSmallest.java)
+## LeetCode
+* [LeetCode – Kth Smallest Element in a Sorted Matrix](https://www.programcreek.com/2016/08/leetcode-kth-smallest-element-in-a-sorted-matrix-java/) - [KthSmallest.java](src/test/java/org/alexburchak/programcreek/leetcode/kth_smallest/KthSmallest.java)
+
+## Coding interview
+See [Coding interview PDF](https://www.programcreek.com/wp-content/uploads/2012/11/coding-interview-3.pdf)
+
+* Rotate Array in Java - [RotateArray.java](src/test/java/org/alexburchak/programcreek/interview/rotate_array/RotateArray.java)
